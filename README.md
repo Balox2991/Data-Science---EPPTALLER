@@ -57,6 +57,8 @@ Modelo YOLOv8
 Detección de objetos
         ↓
 Resultados visuales + alertas de seguridad
+
+
 💻 Tecnologías utilizadas
 Python
 Streamlit
@@ -65,6 +67,8 @@ OpenCV
 Ultralytics YOLO
 Pandas
 Pillow
+
+
 📁 Estructura del proyecto
 ppe-detection/
 │
@@ -77,16 +81,22 @@ ppe-detection/
 ├── logo.jpg              # Identidad visual
 └── README.md
 ⚙️ Instalación y ejecución
+
 1️⃣ Clonar repositorio
 git clone https://github.com/Balox2991/Data-Science---EPPTALLER.git
 cd Data-Science---EPPTALLER
+
 2️⃣ Crear entorno virtual
 python -m venv venv
 venv\Scripts\activate   # Windows
+
 3️⃣ Instalar dependencias
 pip install -r requirements.txt
+
 4️⃣ Ejecutar aplicación
 streamlit run app.py
+
+
 🖥️ Funcionalidades
 📤 Carga de imágenes
 🧠 Detección automática de EPP
