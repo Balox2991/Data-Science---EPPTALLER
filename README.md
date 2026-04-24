@@ -112,15 +112,10 @@ No está optimizado aún para cámaras en tiempo real
 📊 Panel de análisis de seguridad
 🔔 Sistema de alertas automáticas
 🧠 Optimización del modelo con datasets industriales reales
-🎥 Demo
 
-El video de demostración se encuentra en la carpeta /video.
+Aplicación en línea 
+👉 [https://tu-app-streamlit.streamlit.app](https://data-science---epptaller-kkcb8khugxnkd4vyuio65k.streamlit.app](https://data-science---epptaller-kkcb8khugxnkd4vyuio65k.streamlit.app/)/
 
-🌐 Despliegue
-
-Aplicación en línea (si está desplegada):
-
-👉 https://tu-app-streamlit.streamlit.app
 
 👨‍💻 Autor
 
@@ -130,14 +125,6 @@ Visión por computador aplicada a seguridad industrial
 
 Juan David Amaya Quintero
 
-🏭 Aplicaciones en la industria
-
-Este sistema puede ser utilizado en:
-
-Construcción 🏗️
-Minería ⛏️
-Industria manufacturera 🏭
-Petróleo y gas 🛢️
 
 
 
